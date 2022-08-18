@@ -1,2 +1,2 @@
-    # school stuff
+# school stuff
 coisa de escola seila
